@@ -10,3 +10,9 @@
 - 面试流程 [Interviewing Designers](https://uxplanet.org/interviewing-designers-294224c15077)
 - 面试UX设计师by hubspot [11 Interview Questions To Ask While Hiring A Designer](https://blog.hubspot.com/agency/interview-questions-designers)
 - [How to evaluate a designer with a design exercise](https://library.gv.com/how-to-interview-a-designer-with-the-perfect-design-exercise-2c99e6646612)
+
+
+## 卓越的设计师
+#### 插画
+- [女插画师集合]（http://www.womenwhodraw.com）
+- [hannahebuckman]（https://hannahbuckman.co）
