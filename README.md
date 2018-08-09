@@ -14,5 +14,5 @@
 
 ## 卓越的设计师
 #### 插画
-- [女插画师集合]（http://www.womenwhodraw.com）
-- [hannahebuckman]（https://hannahbuckman.co）
+- [女插画师集合](http://www.womenwhodraw.com）
+- [hannahebuckman](https://hannahbuckman.co）
