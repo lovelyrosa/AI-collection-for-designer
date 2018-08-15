@@ -25,4 +25,4 @@
 - [hannahebuckman](https://hannahbuckman.co)
 
 ## 工作室
-[一个法国的工作室 .dot](http://www.studio-dot.fr/)
+- [一个法国的工作室 .dot](http://www.studio-dot.fr/)
