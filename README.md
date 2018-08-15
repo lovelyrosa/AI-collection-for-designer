@@ -23,3 +23,6 @@
 #### 插画
 - [女插画师集合](http://www.womenwhodraw.com)
 - [hannahebuckman](https://hannahbuckman.co)
+
+## 工作室
+[一个法国的工作室 .dot](http://www.studio-dot.fr/)
